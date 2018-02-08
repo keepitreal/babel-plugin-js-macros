@@ -90,7 +90,7 @@ npm install --save-dev babel-plugin-macros
 Then, in your babel configuration (usually in your `.babelrc` file), add `"macros"` to your list of plugins:
 ```json
 {
-  "plugins": ["macros"]
+  "plugins": ["babel-plugin-js-macros"]
 }
 ```
 
