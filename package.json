@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-macros",
+  "name": "babel-plugin-js-macros",
   "version": "1.0.15",
   "description": "Macros for JavaScript via a babel plugin.",
   "main": "lib/index.js",

@@ -2,9 +2,7 @@
 
 This is a [Babel](https://babeljs.io/) plugin adds support for hygienic, non-syntactic macros for JavaScript.
 
-[![Build Status](https://travis-ci.org/codemix/babel-plugin-macros.svg)](https://travis-ci.org/codemix/babel-plugin-macros)
-
-[![NPM](https://nodei.co/npm-dl/babel-plugin-macros.png?months=1)](https://nodei.co/npm/babel-plugin-macros/)
+[![NPM](https://nodei.co/npm-dl/babel-plugin-js-macros.png?months=1)](https://nodei.co/npm/babel-plugin-js-macros/)
 
 > Note: Now requires Babel 6.
 
